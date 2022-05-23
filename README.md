@@ -13,6 +13,9 @@ sudo apt install python-numpy
 
 
 ## Steps to Run
-1-enter 0 for image, 1 for video
-2-enter image/video complete path
+1_run main.py
+
+2_enter 0 for image, 1 for video
+
+3_enter image/video complete path
 
