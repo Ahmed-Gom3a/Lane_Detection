@@ -16,7 +16,7 @@ import globals
 
 
 
-def PIPELINE_lane_finding (img,isDebug):
+def lane_finding_pipeline (img,isDebug):
     #Step 1 Extract all white colors from img
     binary_thresh = binaryThreshold.binary_thresholded(img)
     
